@@ -39,4 +39,4 @@ My name is Adrián and I am currently majoring in Electronics and Telecommunicat
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=La-guajolota&layout=pie&hide=html,pawn,openedge)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=La-guajolota&layout=pie&hide=html,pawn,purebasic)](https://github.com/anuraghazra/github-readme-stats)
