@@ -25,7 +25,7 @@ My name is Adrián and I am currently majoring in Electronics and Telecommunicat
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=La-guajolota&layout=pie&hide=html,pawn,purebasic,batchfile,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=La-guajolota&layout=pie&hide=html,pawn,purebasic,batchfile,makefile,tcl)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I also make drawings
 ![Imagen de WhatsApp 2023-12-12 a las 00 04 05_70919546](https://github.com/La-guajolota/La-guajolota/assets/81340208/fd88a554-0050-4f33-b3f5-2238c2052d35)
