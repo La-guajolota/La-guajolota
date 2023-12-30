@@ -1,4 +1,4 @@
-<div style="text-align: justify; font-size: 18px; color: blue;">
+<div style="text-align: center; font-size: 18px; color: blue;">
 
 # La guajolota 
 ## ฅ^•ﻌ•^ฅ Ⓐ☭ඞ🐛🧉🐛ඞ Ⓐ☭ ฅ^•ﻌ•^ฅ
