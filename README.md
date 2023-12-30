@@ -1,8 +1,8 @@
-#🧉🦎🐛 Adrián Silva Palafox
+#####🧉🦎🐛 La guajolota
 
 **`Electronics engineering undergraduate (Embedded systems/ Embedded sosftaware/ ?OWU?)`** 
 
-I am currently majoring in Electronics and Telecommunication Engineering. On this platform, you will find various college projects and personal works of mine. My primary interests lie in embedded systems, embedded software, microcontrollers, and smart agriculture. Some of my work will be documented on "[Juan Pepe Guajolotero][youtube]", so whoever is reading this, you are encouraged to check it out. I also create TikToks from time to time.
+My name is Adrián and I am currently majoring in Electronics and Telecommunication Engineering. On this platform, you will find various college projects/assignments and personal works of mine. My primary interests lie in embedded systems, embedded software, microcontrollers, and smart agriculture. Some of my work will be documented on "[La-guajolota][youtube]", so whoever is reading this, you are encouraged to check it out. I also create TikToks from time to time.
 
 <p align="left">
       <a href="https://www.youtube.com/@JuanPepeGuajolotero">
@@ -18,7 +18,7 @@ I am currently majoring in Electronics and Telecommunication Engineering. On thi
 </p>
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages, Tools, and Platforms
 
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -34,7 +34,7 @@ I am currently majoring in Electronics and Telecommunication Engineering. On thi
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=La-guajolota&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
