@@ -11,7 +11,7 @@
 
 <div style="text-align: justify">
 
-My name is Adrián and I am currently majoring in Electronics and Telecommunication Engineering. On this platform, you will find various college projects/assignments and personal works of mine. My primary interests lie in embedded systems, embedded software, microcontrollers, signal processing, DSPs, and smart agriculture. Some of my work will be documented on [Juan Pepe Guajolotero](https://www.youtube.com/@JuanPepeGuajolotero), so whoever is reading this, you are encouraged to check it out. I also create TikToks [Guajolote_d_jocotepec123](https://www.tiktok.com/@guajolote_d_jocotepec123) from time to time.
+My name is Adrián and I am currently majoring in Electronics and Telecommunication Engineering. On this platform, you will find various college projects/assignments and personal works of mine. My primary interests lie in embedded systems, embedded software, microcontrollers, HDLs, signal processing, DSPs, and smart agriculture. Some of my work will be documented on [Juan Pepe Guajolotero](https://www.youtube.com/@JuanPepeGuajolotero), so whoever is reading this, you are encouraged to check it out. I also create TikToks [Guajolote_d_jocotepec123](https://www.tiktok.com/@guajolote_d_jocotepec123) from time to time.
 
 </div>
 ### 🧰 Languages, Tools, and Platforms
