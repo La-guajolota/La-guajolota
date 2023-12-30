@@ -14,6 +14,5 @@ I am currently majoring in Electronics and Telecommunication Engineering. On thi
       <a href="https://www.youtube.com/@JuanPepeGuajolotero">
             <img alt="youtube views" title="YouTube views" src="https://custom-icon-      
             badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?      
-            color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      
+            color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>  
 </p>
