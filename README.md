@@ -1,9 +1,10 @@
-<div align="center">
+<div style="text-align: justify; font-size: 18px; color: blue;">
 
 # La guajolota 
 ## ฅ^•ﻌ•^ฅ Ⓐ☭ඞ🐛🧉🐛ඞ Ⓐ☭ ฅ^•ﻌ•^ฅ
 
 </div>
+
 
 ![](https://komarev.com/ghpvc/?username=yLa-guajolota&style=flat-square)
 
