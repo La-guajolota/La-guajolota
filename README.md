@@ -1,4 +1,4 @@
-#####🧉🦎🐛 La guajolota
+###  🧉🦎🐛 La guajolota
 
 **`Electronics engineering undergraduate (Embedded systems/ Embedded sosftaware/ ?OWU?)`** 
 
@@ -16,7 +16,8 @@ My name is Adrián and I am currently majoring in Electronics and Telecommunicat
             badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?      
             color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>  
 </p>
----
+
+#
 
 ### 🧰 Languages, Tools, and Platforms
 
