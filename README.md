@@ -1,5 +1,9 @@
-#                                                                             La guajolota 
-##                                                                  ฅ^•ﻌ•^ฅ Ⓐ☭ඞ🐛🧉🐛ඞ Ⓐ☭ ฅ^•ﻌ•^ฅ
+<div align="center">
+# La guajolota 
+# ฅ^•ﻌ•^ฅ Ⓐ☭ඞ🐛🧉🐛ඞ Ⓐ☭ ฅ^•ﻌ•^ฅ
+
+</div>
+
 ![](https://komarev.com/ghpvc/?username=yLa-guajolota&style=flat-square)
 
 **`Electronics engineering undergraduate `** 
