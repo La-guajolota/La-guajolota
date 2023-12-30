@@ -1,6 +1,6 @@
 #🧉🦎🐛 Adrián Silva Palafox
 
-**Electronics engineering undergraduate (Embedded systems/ Embedded sosftaware/ ?OWU?)** 
+**`Electronics engineering undergraduate (Embedded systems/ Embedded sosftaware/ ?OWU?)`** 
 
 I am currently majoring in Electronics and Telecommunication Engineering. On this platform, you will find various college projects and personal works of mine. My primary interests lie in embedded systems, embedded software, microcontrollers, and smart agriculture. Some of my work will be documented on "[]"[YouTube]", so whoever is reading this, you are encouraged to check it out. I also create TikToks from time to time.
 
