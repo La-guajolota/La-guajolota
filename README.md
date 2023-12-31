@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yLa-guajolota&style=flat-square)
 
-**`Electronics engineering undergraduate `** 
+**`Electronics engineering undergraduate `** **`Smart agriculture enthusiast`** 
 
 <div style="text-align: justify">
 
