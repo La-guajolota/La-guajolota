@@ -26,7 +26,7 @@ My name is Adrián, and I am currently majoring in Electronics and Telecommunica
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/25627/discord" />
 <br />
 
 ### 📊 Stats
