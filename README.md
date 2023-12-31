@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=yLa-guajolota&style=flat-square)
 
-**`Electronics engineering undergraduate `** **`Smart agriculture enthusiast`** 
+**`Electronics engineering undergraduate `** **`Smart agriculture enthusiast`** **`Embedded sofware`** **`Analog and digital circuits`**  
 
 <div style="text-align: justify">
 
