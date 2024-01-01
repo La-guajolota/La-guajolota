@@ -15,6 +15,7 @@ My name is Adrián, and I am currently majoring in Electronics and Telecommunica
 
 </div>
 
+---
 ### 🧰 Languages, Tools, and Platforms
 
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
@@ -28,6 +29,7 @@ My name is Adrián, and I am currently majoring in Electronics and Telecommunica
 <img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <br />
 
+---
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=La-guajolota&show_icons=true&theme=gruvbox)
@@ -35,5 +37,3 @@ My name is Adrián, and I am currently majoring in Electronics and Telecommunica
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=La-guajolota&layout=pie&hide=html,pawn,purebasic,batchfile,makefile,tcl)](https://github.com/anuraghazra/github-readme-stats)
-
-
