@@ -16,7 +16,6 @@
 My name is Adrián, and I am currently majoring in Electronics and Telecommunication Engineering. On this platform, you will find various college projects/assignments and personal works of mine (most of it as reference code). My primary interests lie in embedded systems, embedded software, microcontrollers, HDLs, signal processing, DSPs, and smart agriculture. Some of my work will be documented on [Juan Pepe Guajolotero](https://www.youtube.com/@JuanPepeGuajolotero), so whoever is reading this, you are encouraged to check it out. I also create TikToks [Guajolote_d_jocotepec123](https://www.tiktok.com/@guajolote_d_jocotepec123) from time to time.
 
 </div>
----
 ## 🛠 Languages and Tools:
 
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) 
