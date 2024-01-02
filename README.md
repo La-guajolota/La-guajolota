@@ -17,7 +17,6 @@ My name is Adrián, and I am currently majoring in Electronics and Telecommunica
 
 </div>
 ---
-### 🧰 Languages, Tools, and Platforms
 ## 🛠 Languages and Tools:
 
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) 
@@ -27,12 +26,10 @@ My name is Adrián, and I am currently majoring in Electronics and Telecommunica
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 ![Proteus](https://img.shields.io/badge/Proteus-%23008082.svg?&style=for-the-badge&logo=atom&logoColor=white) ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)
 
-
 ## 😅 My GitHub status:
 
-[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Escamilla)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Escamilla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=La-guajolota)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=La-guajolota&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
