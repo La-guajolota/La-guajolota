@@ -36,6 +36,20 @@ My name is Adrián, and I am currently majoring in Electronics and Telecommunica
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=La-guajolota&show_icons=true&theme=gruvbox)
 
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/La-guajolota/La-guajolota/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
+
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=La-guajolota&layout=pie&hide=html,pawn,purebasic,batchfile,makefile,tcl,openedgeabl)](https://github.com/anuraghazra/github-readme-stats)
