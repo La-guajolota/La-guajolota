@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=La+guajolota;" />
 </h1>
 
-## ฅ^•ﻌ•^ฅⒶ☭ඞ🐛🧉🐛ඞ Ⓐ☭ ฅ^•ﻌ•^ฅ
+### ฅ^•ﻌ•^ฅⒶ☭ඞ🐛🧉🐛ඞ Ⓐ☭ ฅ^•ﻌ•^ฅ
 </div>
 
 ![](https://komarev.com/ghpvc/?username=yLa-guajolota&style=flat-square)
@@ -27,7 +27,7 @@ My name is Adrián, and I am currently majoring in Electronics and Telecommunica
 
 
 
-## 😅 My GitHub status:
+# My GitHub status:
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=La-guajolota)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=La-guajolota&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
