@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=La+guajolota;" />
 </h1>
 
-### ฅ^•ﻌ•^ฅⒶ☭ඞ🐛🧉🐛ඞ Ⓐ☭ ฅ^•ﻌ•^ฅ
+# ฅ^•ﻌ•^ฅⒶ☭ඞ🐛🧉🐛ඞ Ⓐ☭ ฅ^•ﻌ•^ฅ
 </div>
 
 ![](https://komarev.com/ghpvc/?username=yLa-guajolota&style=flat-square)
@@ -25,9 +25,7 @@ My name is Adrián, and I am currently majoring in Electronics and Telecommunica
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 ![Proteus](https://img.shields.io/badge/Proteus-%23008082.svg?&style=for-the-badge&logo=atom&logoColor=white) ![multisim](https://img.shields.io/badge/multisim-%2347A141.svg?&style=for-the-badge&logo=multisim&logoColor=green)![labview](https://img.shields.io/badge/labview%20-%23013243.svg?&style=for-the-badge&logo=labview&logoColor=#FFDB00)![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white) ![Psoc5lp](https://img.shields.io/badge/Psoc5lp-D83B01?style=for-the-badge&logo=Psoc5lp&logoColor=red) ![STM32](https://img.shields.io/badge/stmicroelectronics-181717.svg?&style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![raspberrypi](https://img.shields.io/badge/raspberrypi-3776AB.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white) ![micropython](https://img.shields.io/badge/micropython%20-%23150458.svg?&style=for-the-badge&logo=micropython&logoColor=white) ![jupyter](https://img.shields.io/badge/jupyter%20-%23008080.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
 
-
-
-# My GitHub status:
+### My GitHub status:
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=La-guajolota)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=La-guajolota&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
