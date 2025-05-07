@@ -23,6 +23,10 @@ Hey! I'm Adrián, an Electronics and Telecommunication Engineering graduate who 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-4F4F4F?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Python](http://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-89E051?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=terminal&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-428850?style=for-the-badge&logo=zsh&logoColor=white)
+
 
 ### HDL & FPGA Development
 ![VHDL](https://img.shields.io/badge/VHDL-5C2D91?style=for-the-badge&logo=xilinx&logoColor=white)
