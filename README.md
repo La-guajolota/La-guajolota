@@ -84,8 +84,19 @@ Hey! I'm Adrián, an Electronics and Telecommunication Engineering graduate who 
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=La-guajolota&show_icons=true&theme=react&hide_border=true" alt="Adrian's GitHub Stats" height="170em" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=La guajolota&layout=compact&theme=react&hide=jupyter%20notebook,CMake" alt="Most Used Languages" height="170em" />
+  <!-- Estadísticas generales -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=La-guajolota&show_icons=true&theme=react&hide_border=true"
+    alt="La Guajolota's GitHub Stats"
+    height="170em"
+  />
+
+  <!-- Lenguajes principales, ocultando Jupyter Notebook y CMake -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=La-guajolota&layout=compact&theme=react&hide=jupyter%20notebook,CMake&hide_border=true"
+    alt="Most Used Languages"
+    height="170em"
+  />
 </div>
 
 ## 📫 Find Me Online
