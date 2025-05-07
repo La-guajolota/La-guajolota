@@ -24,6 +24,7 @@ Hey! I'm Adrián, an Electronics and Telecommunication Engineering graduate who 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](http://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![VHDL](https://img.shields.io/badge/VHDL-5C2D91?style=for-the-badge&logo=xilinx&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-2980B9?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-4F4F4F?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### Microcontrollers & SOCs
@@ -66,9 +67,7 @@ Hey! I'm Adrián, an Electronics and Telecommunication Engineering graduate who 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6B00?style=for-the-badge&logo=platformio&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
 
 ### Data & Simulation
 ![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
