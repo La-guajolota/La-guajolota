@@ -93,7 +93,7 @@ Hey! I'm Adrián, an Electronics and Telecommunication Engineering graduate who 
 
   <!-- Lenguajes principales, ocultando Jupyter Notebook y CMake -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=La-guajolota&layout=compact&theme=react&hide=jupyter%20notebook,CMake&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=La-guajolota&layout=compact&theme=react&hide=jupyter%20notebook,CMake,Makefile,html&hide_border=true"
     alt="Most Used Languages"
     height="170em"
   />
