@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=La-guajolota&style=flat-square&color=blue)
 
-**`Electronics Engineer`** **`Embedded Systems Developer`** **`IoT Enthusiast`** **`Smart Agriculture Hobbyist`**  
+**`Electronics Engineer`** **`Embedded Systems Developer`** **`Smart Agriculture Hobbyist`**  
 
 <div style="text-align: justify">
 
