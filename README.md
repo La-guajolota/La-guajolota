@@ -29,7 +29,7 @@ Hey! I'm Adrián, an Electronics and Telecommunication Engineering graduate who 
 
 ### Microcontrollers & SOCs
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR-ED1C24?style=for-the-badge&logo=arduino&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-ED1C24?style=for-the-badge&logo=AVR&logoColor=white)
 ![RISC--V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
 ![Microchip](https://img.shields.io/badge/Microchip_PIC-EE3233?style=for-the-badge&logo=microchip&logoColor=white)
 ![Texas Instruments](https://img.shields.io/badge/TI_MSP430-C50001?style=for-the-badge&logo=texas-instruments&logoColor=white)
@@ -40,7 +40,6 @@ Hey! I'm Adrián, an Electronics and Telecommunication Engineering graduate who 
 
 ### Hardware Design
 ![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
-![Intel FPGA](https://img.shields.io/badge/Intel_FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white)
 ![Multisim](https://img.shields.io/badge/Multisim-FFD700?style=for-the-badge&logo=ni&logoColor=black)
