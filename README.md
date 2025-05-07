@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat:700&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!;printf("Hello World!);;Electronics+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat:700&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=printf("Hello World!);;Electronics+Engineer" />
 </h1>
 
 # 💻 Embedded Systems & Smart Agriculture 🌱
