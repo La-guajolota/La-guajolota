@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat:700&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!;printf(%22Hello+World!%22);Electronics+Engineer" />
 </h1>
 
-# 💻 Embedded Systems & Smart Agriculture 🌱
+# 💻 Electronics & Telecommunications Engineer | Embedded Systems & Firmware | Embedded Linux | Hardware & PCB Design 🌱
 </div>
 
 ![](https://komarev.com/ghpvc/?username=La-guajolota&style=flat-square&color=blue)
