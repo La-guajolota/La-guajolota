@@ -12,7 +12,15 @@
 
 <div style="text-align: justify">
 
-Hey! I'm Adrián, an Electronics and Telecommunication Engineering graduate who enjoys working with embedded systems and smart agriculture solutions. I share my college projects and personal experiments here - mostly related to microcontrollers, embedded software, and hydroponic systems. When I'm not tinkering with hardware, I'm documenting my projects on YouTube [Juan Pepe Guajolotero](https://www.youtube.com/@JuanPepeGuajolotero) or making the occasional tech demo on TikTok [Guajolote_d_jocotepec123](https://www.tiktok.com/@guajolote_d_jocotepec123).
+Hey! I'm Adrián, an Electronics and Telecommunications Engineer with a strong interest in developing solutions that integrate hardware and software, tailored for both industrial environments and the specific needs of small and medium-sized businesses.
+
+I have experience with microcontrollers and FPGAs from various manufacturers, which has allowed me to handle everything from electronic design to low-level firmware development and complete embedded systems.
+
+I have also worked with Single-Board Computers (SBCs), integrating more complex embedded solutions, including lightweight servers, monitoring interfaces, computer vision, and automation systems adapted for industrial, domestic, or commercial environments.
+
+I enjoy working on projects with practical impact, whether by collaborating with development teams or proposing solutions to clients who need to address specific technical challenges. I am always open to collaborating, learning, and contributing to new challenges.
+
+When I'm not tinkering with hardware, I'm documenting my projects on YouTube [Juan Pepe Guajolotero](https://www.youtube.com/@JuanPepeGuajolotero) or making the occasional tech demo on TikTok [Guajolote_d_jocotepec123](https://www.tiktok.com/@guajolote_d_jocotepec123).
 
 </div>
 
