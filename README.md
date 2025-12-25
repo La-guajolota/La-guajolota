@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat:700&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!;printf(%22Hello+World!%22);Electronics+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat:700&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!;printf(%22Hello+World!%22);%22;Electronics+Engineer" />
 </h1>
 
 # 💻 Electronics & Telecommunications Engineer | Embedded Systems & Firmware | Embedded Linux | Hardware & PCB Design 🌱
